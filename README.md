@@ -1,10 +1,8 @@
-# alif-muslim-app
+# Muslim Companion
 
-<img src="https://user-images.githubusercontent.com/32610660/162788603-662e4736-76c8-40ae-91aa-3a20c07f36bc.svg" />
+<img src="https://github.com/ica4me/UploadGambar/blob/main/WIN_20230521_13_30_26_Pro.jpg?raw=true" alt="Your Image Description" style="height: 173px; width: 173px;" />
 
-Alif is a Muslim app to schedule your daily need like prayer reminders, Islamic calendar, and create your custom activity to track your activity
 
-<img src="https://user-images.githubusercontent.com/32610660/197125694-39e0afe8-24ac-4083-8e02-d284020ae909.png"/>
 
 
 ## Screenshot
@@ -28,4 +26,5 @@ Alif is a Muslim app to schedule your daily need like prayer reminders, Islamic 
 </table>
 
 ## Download
-<a href="https://appdistribution.firebase.dev/i/63888a80223193c3"><img src="https://www.gstatic.com/alkali/eba17e954431c80b7b31125928f3379476ee4934.png" title="Alif App" width="64" height="64" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/derysudrajat/alif-muslim-app/tags"><img src="https://user-images.githubusercontent.com/32610660/162803122-3817839a-f58a-49b4-883d-5feb4ee7316f.png" title="Alif App" width="64" height="64" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/drive/folders/1IB8G6K1rUMQzoG4azotPujIlvsj3wqc5?usp=sharing"><img src="https://user-images.githubusercontent.com/32610660/162807457-84acad9d-cd36-4911-98c5-1c1cb03cb873.png" title="Alif App" height="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://play.google.com/store/apps/details?id=id.derysudrajat.alif"><img src="https://user-images.githubusercontent.com/32610660/181200717-92269475-6cea-438f-bc6a-c3e5a8e78681.png" title="Alif App" height="60" /></a>
+<a href="https://drive.google.com/file/d/1pBikvHShVF5R1YXDDz0AMXtjZyluIfQV/view?usp=sharing" target="_blank"><img src="https://user-images.githubusercontent.com/32610660/162807457-84acad9d-cd36-4911-98c5-1c1cb03cb873.png" title="Muslim Companion" height="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
