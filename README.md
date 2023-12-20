@@ -20,9 +20,6 @@
     <th><img src="https://user-images.githubusercontent.com/32610660/180283743-b498aa7c-510f-4a79-95e0-04437eb16cc8.png"/></th>
     <th><img src="https://user-images.githubusercontent.com/32610660/180284254-0efb01e1-919c-46b6-888d-69de1931ea7d.png"/></th>
   </tr>
-  <tr>
-    <td colspan = 5><img src="https://user-images.githubusercontent.com/32610660/197125756-5cf3be3f-38ff-4f30-855d-638391b1569e.png"/></td>
-  </tr>
 </table>
 
 ## Download
