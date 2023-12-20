@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="20dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_bg"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/btnBackdoa"
+            style="?attr/materialCardViewFilledStyle"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_margin="10dp"
+            android:layout_marginVertical="16dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:padding="8dp"
+            app:cardBackgroundColor="@color/text"
+            app:cardCornerRadius="8dp"
+            app:cardElevation="0dp"
+            android:layout_gravity="center_vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintDimensionRatio="1:1"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+                android:id="@+id/ivBackhome"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/ic_arrow_back"
+                app:tint="?attr/iconNavColor" />
+        </com.google.android.material.card.MaterialCardView>
+
+        <ImageView
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/logo"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center_vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="DailyPrayers"
+                android:textColor="@color/text"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/margarine" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kumpulan Doa - Doa Harian"
+                android:textColor="@color/text"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/margarine"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ayo, Awali Semua Aktivitas Dengan Doa !!"
+                android:textColor="@color/text"
+                android:textSize="12sp"
+                android:textStyle="italic"
+                android:fontFamily="@font/margarine"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</FrameLayout>
