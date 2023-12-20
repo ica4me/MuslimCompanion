@@ -1,6 +1,6 @@
 # Muslim Companion
 
-<img src="https://github.com/ica4me/UploadGambar/blob/main/WIN_20230521_13_30_26_Pro.jpg?raw=true" alt="Your Image Description" style="height: 173px; width: 173px;" />
+<img src="https://raw.githubusercontent.com/ica4me/UploadGambar/main/IMG_20231221_062736.jpg" alt="Your Image Description" style="height: 173px; width: 173px;" />
 
 
 
